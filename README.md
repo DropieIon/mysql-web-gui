@@ -1,8 +1,9 @@
 # mysql-web-gui
 
 Prerequisites:
-  mysql
-  npm
+  mysql,
+  npm,
+  node
 
 ## Project setup
 ```
