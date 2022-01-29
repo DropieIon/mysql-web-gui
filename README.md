@@ -1,5 +1,9 @@
 # mysql-web-gui
 
+Prerequisites:
+  mysql
+  npm
+
 ## Project setup
 ```
 npm install # inside mysql-web-gui folder
