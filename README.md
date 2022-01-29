@@ -2,7 +2,8 @@
 
 ## Project setup
 ```
-npm install
+npm install # inside mysql-web-gui folder
+node express+mysql.js # inside JS-Utilities folder
 ```
 
 ### Compiles and hot-reloads for development
@@ -15,10 +16,4 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+If it doesn't run make sure to delete nodejs_modules and run nmp install again.
