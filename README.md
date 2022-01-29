@@ -3,7 +3,7 @@
 ## Project setup
 ```
 npm install # inside mysql-web-gui folder
-node express+mysql.js # inside JS-Utilities folder
+node express+mysql.js & # inside JS-Utilities folder
 ```
 
 ### Compiles and hot-reloads for development
